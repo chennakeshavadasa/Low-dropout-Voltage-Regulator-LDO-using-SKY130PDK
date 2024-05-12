@@ -1,26 +1,26 @@
-## Low dropout Voltage Regulator(LDO) using SKY130PDK
+# Low dropout Voltage Regulator(LDO) using SKY130PDK
 Design of Low dropout voltage regulator with a voltage drop of 150mV for a regulated output of 1.35V for an input range of 1.5-3V using SKY130PDK
 
-# Specification
+## Specification
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/78002c44-6984-4fb0-92fc-99e1074c7e97" alt="Image">
 </p>
 
 
 
-# Circuit
+## Circuit
 
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/296c715a-83e9-4ee0-911d-ccb7ef9963cd" alt="Image">
 </p>
 
 
-# Schematics 
+## Schematics 
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/d1146e96-9169-462e-9f9e-f392a69f617c" alt="Image">
 </p>
 
-# Line, Load regulation and PSRR
+## Line, Load regulation and PSRR
 - Achieved specififcations:<br>
      - DC gain: 62 dB <br>
      - GBW: 4.8 MHz<br>
@@ -48,7 +48,7 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/7bdd04a0-6354-4773-8f03-81b5021cc056" alt="Image">
 </p> 
 
-# References
+## References
 
 **[1]**. A Low Drop Regulator (LDO) in UMC 180 nm Technology by Mohammed Rizwan <br>
 **[2]**. Low Drop-Out Voltage Regulators: Capacitor-less Architecture Comparison by Joselyn Torres, Mohamed ElNozahi, Ahmed Amer, Seenu Gopalraju, Reza Abdullah, Kamran Entesari, and Edgar S·nchez-Sinencio. <br>
