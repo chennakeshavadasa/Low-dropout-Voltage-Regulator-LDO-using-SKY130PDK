@@ -42,12 +42,12 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 
 # References
 
-[1]. A Low Drop Regulator (LDO) in UMC 180 nm Technology by Mohammed Rizwan <br>
-[2]. Low Drop-Out Voltage Regulators: Capacitor-less Architecture Comparison by Joselyn Torres, Mohamed ElNozahi, Ahmed Amer, Seenu Gopalraju, Reza Abdullah, Kamran Entesari, and Edgar S·nchez-Sinencio. <br>
-[3]. Full On-Chip CMOS Low-Dropout Voltage Regulator Robert J. Milliken, Jose Silva-MartÌnez. <br>
-[4]. IC Design of Power Management Circuits (IV) Wing-Hung Ki Integrated Power Electronics Laboratory ECE Dept., HKUST Clear Water Bay, Hong Kong. <br>
-[5]. Design of low-dropout voltage regulator Miroslav Čermák. <br>
-[6]. LDO Linear Regulator to Charge Battery by Ahmed tawfiq. <br>
-[7]. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC)
+**[1]**. A Low Drop Regulator (LDO) in UMC 180 nm Technology by Mohammed Rizwan <br>
+**[2]**. Low Drop-Out Voltage Regulators: Capacitor-less Architecture Comparison by Joselyn Torres, Mohamed ElNozahi, Ahmed Amer, Seenu Gopalraju, Reza Abdullah, Kamran Entesari, and Edgar S·nchez-Sinencio. <br>
+**[3]**. Full On-Chip CMOS Low-Dropout Voltage Regulator Robert J. Milliken, Jose Silva-MartÌnez. <br>
+**[4]**. IC Design of Power Management Circuits (IV) Wing-Hung Ki Integrated Power Electronics Laboratory ECE Dept., HKUST Clear Water Bay, Hong Kong. <br>
+**[5]**. Design of low-dropout voltage regulator Miroslav Čermák. <br>
+**[6]**. LDO Linear Regulator to Charge Battery by Ahmed tawfiq. <br>
+**[7]**. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC)
 
 
