@@ -27,19 +27,19 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
      • Phase margin: 82degree (hand calculated) <br>
      • |PSRR|: greater than 60dB <br>
      • Iq: 104uA <br>
-     • Efficiency: 89.77% <br>
-- Load Regulation    
+     • Efficiency: 89.77% <br><br><br>
+Load Regulation    
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/f89312f6-206a-4edb-92eb-93640a470411" alt="Image">
 </p> <br>
-- Line Regulation
+Line Regulation
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/fdeb3886-eefb-45b4-9ef1-ae81d4f62ddf" alt="Image">
 </p><br>
-- PSRR
+PSRR
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/7bdd04a0-6354-4773-8f03-81b5021cc056" alt="Image">
-</p><br>
+</p>
 
 # References
 
