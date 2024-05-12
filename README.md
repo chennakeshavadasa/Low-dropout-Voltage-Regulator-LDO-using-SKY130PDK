@@ -11,12 +11,12 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 # Circuit
 
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/d4f22883-f5c4-4aad-ab2c-6c58d7421035" alt="Image">
+  <img src="https://www.analog.com/en/_/media/analog/en/landing-pages/block_pmp_ldo_01.jpg?rev=94c12f6865a54cad9ea23fc9ae20f455&sc_lang=en" alt="Image">
 </p>
 
 # Schematics 
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/98788825-edf1-4496-b8d8-d130dd7b7bd2" alt="Image">
+  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/d1146e96-9169-462e-9f9e-f392a69f617c" alt="Image">
 </p>
 
 # Line, Load regulation and PSRR
