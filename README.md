@@ -50,6 +50,6 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 **[4]**. IC Design of Power Management Circuits (IV) Wing-Hung Ki Integrated Power Electronics Laboratory ECE Dept., HKUST Clear Water Bay, Hong Kong. <br>
 **[5]**. Design of low-dropout voltage regulator Miroslav Čermák. <br>
 **[6]**. LDO Linear Regulator to Charge Battery by Ahmed tawfiq. <br>
-**[7]**. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC)
+**[7]**. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Ahmed Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC)
 
 
