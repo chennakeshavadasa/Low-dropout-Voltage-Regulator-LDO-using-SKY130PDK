@@ -24,13 +24,13 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 - Achieved specififcations:<br>
      - DC gain: 62 dB <br>
      - GBW: 4.8 MHz<br>
-     - Phase Margin(new): 82°<br>
+     - Phase Margin: 82°<br>
      - PSRR : >=60dB <br>
      - Efficiency: 89.77% <br>
      - IQ: 104μA(I've burnt more current to to get the desired tset)<br>
      - tset (Load): 2μsec
      - tset (Line): 1μsec
-     -  Maximum Vreg variation with temperature(-45°C to 125°C): 1.358V-1.349V <br><br>
+     - Maximum Vreg variation with temperature(-45°C to 125°C): 1.358V-1.349V <br><br>
 
      
 **Load Regulation**    
