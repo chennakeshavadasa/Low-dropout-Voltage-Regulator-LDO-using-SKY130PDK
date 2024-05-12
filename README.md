@@ -1,6 +1,5 @@
 # Low dropout Voltage Regulator(LDO) using SKY130PDK
-Design of a simple LDO that produces a regulator output of 0.9v with a supply voltage of 1.2v & a bandgap reference voltage of 0.75v using open source SKY130PDK <br> <br>
-**Status: Ongoing**
+Design of Low dropout voltage regulator with a voltage drop of 150mV for a regulated output of 1.35V for an input range of 1.5-3V using SKY130PDK
 
 # Specification
 <p align="center">
