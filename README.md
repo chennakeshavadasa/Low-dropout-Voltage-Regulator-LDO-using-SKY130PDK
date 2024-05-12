@@ -20,7 +20,7 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 </p>
 
 # Line, Load regulation and PSRR
-- Achieved specififcations:
+- Achieved specififcations:<br>
      • Gain: 62dB (hand calculated)<br>
      • Pole1(dominant): 4kHz, Pole2(non dominant): 100MHz (hand calculated) <br>
      • GBW: 4.8MHz(hand calculated) <br>
