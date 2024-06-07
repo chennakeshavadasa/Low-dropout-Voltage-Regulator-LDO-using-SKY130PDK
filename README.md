@@ -22,9 +22,9 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 
 ## Line, Load regulation and PSRR
 - Achieved specififcations:<br>
-     - DC gain: 62 dB <br>
+     - DC gain: 50 dB <br>
      - GBW: 4.8 MHz<br>
-     - Phase Margin: 82°<br>
+     - Phase Margin: 86°<br>
      - PSRR : >=60dB <br>
      - Efficiency: 89.77% <br>
      - IQ: 104μA(I've burnt more current to to get the desired tset)<br>
