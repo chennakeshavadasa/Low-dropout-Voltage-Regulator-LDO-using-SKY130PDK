@@ -25,7 +25,7 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
      - DC gain: 50 dB <br>
      - GBW: 4.8 MHz<br>
      - Phase Margin: 86°<br>
-     - PSRR : >=60dB <br>
+     - PSRR : 50dB <br>
      - Efficiency: 89.77% <br>
      - IQ: 104μA(I've burnt more current to to get the desired tset)<br>
      - tset (Load): 2μsec
@@ -76,7 +76,7 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 
 **PSRR**
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/7bdd04a0-6354-4773-8f03-81b5021cc056" alt="Image">
+  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/assets/123294639/d2c6c0c1-3945-4058-96d2-d475a614df47" alt="Image">
 </p> 
 
 ## References
