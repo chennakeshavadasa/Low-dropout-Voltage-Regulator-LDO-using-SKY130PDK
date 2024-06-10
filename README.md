@@ -55,12 +55,12 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 
 **Load Transient**
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/blob/main/Plots/Load%20Transient.png" alt="Image">
+  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/blob/main/Plots/Load%20Transient%20LDO.png" alt="Image">
 </p><br>
 
 **Line Transient**
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/blob/main/Plots/Line%20transient.png" alt="Image">
+  <img src="https://github.com/chennakeshavadasa/Low-dropout-Voltage-Regulator-LDO-using-SKY130PDK/blob/main/Plots/Line%20Transient%20LDO.png" alt="Image">
 </p><br>
 
 **Temperature Variation**
