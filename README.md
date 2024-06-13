@@ -87,9 +87,9 @@ Design of Low dropout voltage regulator with a voltage drop of 150mV for a regul
 **[4]**. IC Design of Power Management Circuits (IV) Wing-Hung Ki Integrated Power Electronics Laboratory ECE Dept., HKUST Clear Water Bay, Hong Kong. <br>
 **[5]**. Design of low-dropout voltage regulator Miroslav Čermák. <br>
 **[6]**. LDO Linear Regulator to Charge Battery by Ahmed tawfiq. <br>
-**[7]**. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Ahmed Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC)
-**[8]**. Capacitor-less Low-Dropout Regulator (LDO) with Improved PSRR and Enhanced Slew-Rate by Marouf Khan and Masud H. Chowdhury.
-**[9]**. Y. Wang, X. Wang and H. Yao, "Design of a foldback current limit circuit in LDO.
-**[10]**. A_Novel_Fold-Back_Current_Limiting_Protection_used_in_Sub threshold LDO for Wireless Sensor Applications, Chen, Ziyue.
+**[7]**. Power Management Integrated Circuits NPTEL-NOC IITM by Qadeer Ahmed Khan (https://youtube.com/playlist?list=PLyqSpQzTE6M9UpgVUKY3QKnVVlcqFrMM1&si=mBEvuR-5jQblesC) <br>
+**[8]**. Capacitor-less Low-Dropout Regulator (LDO) with Improved PSRR and Enhanced Slew-Rate by Marouf Khan and Masud H. Chowdhury. <br>
+**[9]**. Y. Wang, X. Wang and H. Yao, "Design of a foldback current limit circuit in LDO. <br>
+**[10]**. A_Novel_Fold-Back_Current_Limiting_Protection_used_in_Sub threshold LDO for Wireless Sensor Applications, Chen, Ziyue. <br>
 
 
